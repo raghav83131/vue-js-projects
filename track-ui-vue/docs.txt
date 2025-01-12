@@ -1,0 +1,3 @@
+The Flow ensures that App.vue remains the single source of truth,
+coordinating interactions between FilterForm (child emitting events) 
+and TableView (child receiving props). 
